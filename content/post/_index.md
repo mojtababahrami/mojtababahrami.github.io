@@ -12,4 +12,10 @@ view: 2
 header:
   caption: ''
   image: ''
+
+draft: true
+# _build:
+#   list: never
+#   publishResources: false
+#   render: never
 ---
