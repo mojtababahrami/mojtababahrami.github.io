@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-I have received my B.Sc. in Electrical Engineering and M.Sc. in Computer Engineering, Artificial Intelligence both from Sharif University of Technology, Tehran, Iran. My research is focused on machine learning and deep learning in biomedical applications.
+I'm a PhD candidate in the [Theis Lab](https://www.helmholtz-munich.de/en/icb/research-groups/theis-lab) at Helmholtz Munich. 
 
-**Homepage**: https://mojtababahrami.github.io/ \
-**Google Scholar**: [Mojtaba Bahrami](https://scholar.google.com/citations?user=iwVGOKYAAAAJ&hl=en)
+My research involves the development and application of machine learning and computational biology methods in single-cell genomics. Previously, I have received my B.Sc. in Electrical Engineering and M.Sc. in Computer Engineering, Artificial Intelligence both from Sharif University of Technology, Tehran, Iran.
+
+**Email**: bahrami.mojtaba.93 [at] gmail.com \
+**Google Scholar**: [Mojtaba Bahrami](https://scholar.google.com/citations?user=iwVGOKYAAAAJ)
 
 <!-- [![Mojtaba's GitHub stats](https://github-readme-stats.vercel.app/api?username=mojtababahrami1993&show_icons=true&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 
