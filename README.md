@@ -7,7 +7,7 @@ My research involves the development and application of machine learning and com
 **Email**: bahrami.mojtaba.93 [at] gmail.com \
 **Google Scholar**: [Mojtaba Bahrami](https://scholar.google.com/citations?user=iwVGOKYAAAAJ)
 
-<!-- [![Mojtaba's GitHub stats](https://github-readme-stats.vercel.app/api?username=mojtababahrami1993&show_icons=true&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Mojtaba's GitHub stats](https://github-readme-stats.vercel.app/api?username=mojtababahrami&show_icons=true&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 
