@@ -76,13 +76,40 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Senior Data Scientist
+        - title: Research Scientist
+          company: Institute of Computational Biology
+          company_url: 'https://www.helmholtz-munich.de/en/icb/research-groups/theis-lab'
+          company_logo: helmholtz
+          location: Munich, Germany
+          date_start: '2023-05-01'
+          date_end: ''
+          # description: |2-
+          #     Responsibilities include:
+
+          #     * Analysing
+          #     * Modelling
+          #     * Deploying
+
+        - title: PhD Student
+          company: Technical University of Munich
+          company_url: 'https://www.tum.de/en/'
+          company_logo: TUM-logo
+          location: Munich, Germany
+          date_start: '2023-05-01'
+          date_end: ''
+          # description: |2-
+          #     Responsibilities include:
+
+          #     * Analysing
+          #     * Modelling
+          #     * Deploying
+        - title: Data Scientist
           company: Hengam.io
           company_url: 'https://www.hengam.io/'
           company_logo: hengam-logo
           location: Vancouver, Canada
           date_start: '2021-03-01'
-          date_end: ''
+          date_end: '2023-04-01'
           # description: |2-
           #     Responsibilities include:
 

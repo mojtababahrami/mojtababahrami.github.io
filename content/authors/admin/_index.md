@@ -15,7 +15,7 @@ superuser: true
 
 # Role/position/tagline
 # role: PhD Student at [Institute of Computational Biology](https://www.helmholtz-muenchen.de/icb/index.html)
-role: Senior Data Scientist at [Hengam.io](https://hengam.io/)
+role: PhD Student in Machine Learning and Computational Biology
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -23,8 +23,12 @@ organizations:
   #   url: https://www.tum.de/en/
   # - name: Helmholtz AI
   #   url: https://www.helmholtz.ai/
-  - name: Sharif University of Technology
-    url: https://en.sharif.edu/
+  - name: Institute of Computational Biology
+    url: https://www.helmholtz-munich.de/en/icb
+  - name: Helmholtz Munich
+    url: https://www.helmholtz-munich.de/
+  - name: Technical University of Munich
+    url: https://www.tum.de/en/
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -39,6 +43,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: Ph.D. in Machine Learning and Computational Biology
+      institution: School of Life Sciences, Technical University of Munich
+      year: 2023
     - course: M.Sc. in Artificial Intelligence
       institution: Department of Computer Engineering, Sharif University of Technology
       year: 2020
@@ -85,7 +92,9 @@ highlight_name: true
 ---
 
 ## Biography
-I have received my B.Sc. in Electrical Engineering and M.Sc. in Computer Engineering, Artificial Intelligence both from [Sharif University of Technology](https://en.sharif.edu/), Tehran, Iran. In my graduate study, I focused on machine learning and deep learning in biomedical applications. I had the opportunity to be a visiting scholar at Mcgill University, School of Computer Science working with [Dr. Yue Li](https://www.cs.mcgill.ca/~yueli/) and research assistant at [Computer Aided Medical Procedures Lab](https://www.cs.cit.tum.de/camp/start/), [Technical University of Munich](https://www.tum.de/en/), Germany, under the supervision of [Prof. Nassir Navab](https://campar.in.tum.de/Main/NassirNavabCv).
-Now I am a team lead senior data scientist at [Hengam.io](https://hengam.io/) where we build and develop AI-based E-commerce solutions for [Shopify](https://shopify.com/) merchants to grow their business.
+I'm a PhD candidate at Theis Lab working under the supervision of [Prof. Fabian J. Theis](https://scholar.google.com/citations?user=sqWpn2AAAAAJ&hl=en) at [Institite of Computational Biology](https://www.helmholtz-munich.de/en/icb/research-groups/theis-lab), Helmholtz Munich and Technical University of Munich (TUM).
+
+My research involves the development and application of machine learning and computational biology methods in single-cell genomics. Previously, I have received my B.Sc. in Electrical Engineering and M.Sc. in Computer Engineering, Artificial Intelligence from [Sharif University of Technology](https://en.sharif.edu/), Tehran, Iran. During my master, I focused on machine learning and deep learning in biomedical applications. I had the opportunity to be a visiting scholar at Mcgill University, School of Computer Science working with [Dr. Yue Li](https://www.cs.mcgill.ca/~yueli/) and research assistant at [Computer Aided Medical Procedures Lab](https://www.cs.cit.tum.de/camp/start/), [Technical University of Munich](https://www.tum.de/en/), Germany, under the supervision of [Prof. Nassir Navab](https://campar.in.tum.de/Main/NassirNavabCv).
+Now I am a team lead data scientist at [Hengam.io](https://hengam.io/) where we build and develop AI-based E-commerce solutions for [Shopify](https://shopify.com/) merchants to grow their business.
 
 {{< icon name="graduation-cap" pack="fas" >}} Please visit my [Google Scholar](https://scholar.google.com/citations?user=iwVGOKYAAAAJ) for the most recent publications.
