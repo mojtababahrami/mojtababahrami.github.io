@@ -12,8 +12,8 @@ authors:
   - FJ Theis
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
+# author_notes:
+#   - 'Equal contribution'
 
 date: '2024-12-27T00:00:00Z'
 doi: '10.1038/s42256-024-00934-3'
