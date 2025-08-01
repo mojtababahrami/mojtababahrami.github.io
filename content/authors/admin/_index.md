@@ -43,9 +43,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    # - course: Ph.D. in Machine Learning and Computational Biology
-    #   institution: School of Life Sciences, Technical University of Munich
-    #   year: 2026
+    - course: Ph.D. in Machine Learning and Computational Biology
+      institution: School of Life Sciences, Technical University of Munich
+      year: present
     - course: M.Sc. in Artificial Intelligence
       institution: Department of Computer Engineering, Sharif University of Technology
       year: 2020
@@ -92,7 +92,7 @@ highlight_name: true
 ---
 
 ## Biography
-I'm a PhD candidate at Theis Lab working under the supervision of [Prof. Fabian J. Theis](https://scholar.google.com/citations?user=sqWpn2AAAAAJ&hl=en) at [Institite of Computational Biology](https://www.helmholtz-munich.de/en/icb/research-groups/theis-lab), Helmholtz Munich and Technical University of Munich (TUM). My primary focus lies in the intersection of machine learning and computational biology, specifically in the field of single-cell genomics. Previously, I have received my B.Sc. in Electrical Engineering and M.Sc. in Computer Engineering, Artificial Intelligence from [Sharif University of Technology](https://en.sharif.edu/), Tehran, Iran. During my master, I focused on machine learning and deep learning in biomedical applications. I had the opportunity to be a visiting scholar at Mcgill University, School of Computer Science working with [Dr. Yue Li](https://www.cs.mcgill.ca/~yueli/) and research assistant at [Computer Aided Medical Procedures Lab](https://www.cs.cit.tum.de/camp/start/), [Technical University of Munich](https://www.tum.de/en/), Germany, under the supervision of [Prof. Nassir Navab](https://campar.in.tum.de/Main/NassirNavabCv).
+I'm a PhD candidate at [TheisLab](https://www.helmholtz-munich.de/en/icb/research-groups/theis-lab) working under the supervision of [Prof. Fabian J. Theis](https://scholar.google.com/citations?user=sqWpn2AAAAAJ&hl=en) at [Institite of Computational Biology](https://www.helmholtz-munich.de/en/icb/research-groups/theis-lab), Helmholtz Munich and Technical University of Munich (TUM). My primary focus lies in the intersection of machine learning and computational biology, specifically in the field of single-cell genomics. Previously, I have received my B.Sc. in Electrical Engineering and M.Sc. in Computer Engineering, Artificial Intelligence from [Sharif University of Technology](https://en.sharif.edu/), Tehran, Iran. During my master, I focused on machine learning and deep learning in biomedical applications. I had the opportunity to be a visiting scholar at Mcgill University, School of Computer Science working with [Dr. Yue Li](https://www.cs.mcgill.ca/~yueli/) and research assistant at [Computer Aided Medical Procedures Lab](https://www.cs.cit.tum.de/camp/start/), [Technical University of Munich](https://www.tum.de/en/), Germany, under the supervision of [Prof. Nassir Navab](https://campar.in.tum.de/Main/NassirNavabCv).
 I was also the team lead data scientist at [Hengam.io](https://www.hengam.io/) where we built and developed AI-based E-commerce solutions for [Shopify](https://shopify.com/) merchants to grow their business.
 
 {{< icon name="graduation-cap" pack="fas" >}} Please visit my [Google Scholar](https://scholar.google.com/citations?user=iwVGOKYAAAAJ) for the most recent publications.

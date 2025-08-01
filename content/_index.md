@@ -76,19 +76,17 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Research Scientist
+        - title: Doctoral Researcher
           company: Institute of Computational Biology
           company_url: 'https://www.helmholtz-munich.de/en/icb/research-groups/theis-lab'
           company_logo: helmholtz
           location: Munich, Germany
           date_start: '2023-05-01'
           date_end: ''
-          # description: |2-
-          #     Responsibilities include:
-
-          #     * Analysing
-          #     * Modelling
-          #     * Deploying
+          description: |2-
+              Working with **Prof. Fabian J. Theis**  
+              Research topics:
+              * Large-scale self-supervised learning in single-cell genomics
 
         - title: PhD Student
           company: Technical University of Munich
